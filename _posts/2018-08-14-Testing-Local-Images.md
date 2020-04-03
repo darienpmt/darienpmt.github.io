@@ -18,29 +18,29 @@ I am trying to get a feel for how to write a blog. I am starting to think that t
 
 ### The content below is from Zach's example and I am keeping it
 
-To make a post, you must follow the naming convention shown for this file,
-with the data as the first part of the file name, seperated by dashes. Then
-the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
+To make a post, you must follow the naming convention shown for this file, with the data as the first part of the file name, seperated by dashes. Then the name of the post as you want it to be stored, with spaces as dashes. Finally, you must also keep the 
 
 ```
 ---
 layout: post
-title: Zach's Test Post
+title: Dariens's Test Post
 ---
 ```
 
 Part in the post to tell the page how to title your post and how to render it.
 
 Below are some examples of loading images, making links, and doing other
-markdown-y things.
+markdown-y things. 
 
+This is probably the only interesting search result one can find about me on the internet right now... I promise I have run more than one ultra marathon!
 
-[This is a link](http://thisismetis.com)
+[Ultra Running](https://ultrasignup.com/results_participant.aspx?fname=Darien&lname=Mitchell-Tontar&age=29)
+
+I am a New England Patriots fan and am very sad about Tom Brady leaving the team.
 
 ![Image test]({{ site.url }}/images/tom_brady.png)
 
-### Other things
+### Other things 
 * Like
 * lists
 * and 
